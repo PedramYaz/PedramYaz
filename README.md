@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**PedramYaz/PedramYaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on obtaining a full-stack software engineering position.
@@ -55,4 +52,3 @@ Here are some ideas to get you started:
 [bootstrap]: https://getbootstrap.com/
 [jest]: https://jestjs.io/
 [node]: https://nodejs.org/en/
--->
