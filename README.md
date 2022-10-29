@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there, I'm Pedram Yazdani 👋
 
 - 🔭 I’m currently working on obtaining a full-stack software engineering position.
 - 🌱 I’m currently enrolled in SpringBoard's Software Engineering Career Track Course.
